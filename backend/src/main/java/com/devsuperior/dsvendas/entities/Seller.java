@@ -10,11 +10,6 @@ import javax.persistence.Id;
 import javax.persistence.OneToMany;
 import javax.persistence.Table;
 
-import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
-import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
-
-@EnableAutoConfiguration(exclude={DataSourceAutoConfiguration.class})
-
 @Entity
 @Table(name = "tb_sellers")
 public class Seller {
