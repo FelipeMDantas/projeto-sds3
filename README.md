@@ -8,11 +8,11 @@
 
 >Dashboard de Vendas is a webpage that retrieves data from local and cloud databases and shows them in an interactive manner.
 
-<img src = "images/landing_page.png">
 Landing Page
+<img src = "images/landing_page.png">
 
-<img src = "images/dashboard_page.png">
 Dashboard Page
+<img src = "images/dashboard_page.png">
 
 ## Features
 
